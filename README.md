@@ -1,10 +1,7 @@
-### Hey there! <img src="">
+# Hey there!
+<hr>
 
 <!--
-**KristienN/KristienN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Technologies & Tools
-<hr>
-![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=f?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
