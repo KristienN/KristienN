@@ -2,7 +2,6 @@
 
 ## I'm a Computer Science & Software Engineering Student at Maynooth University ☘
 
-- 🔭 I’m currently working on Software Design Techniques [CS264](https://github.com/KristienN/cs264)!
-- 🌱 I’m currently learning [Microsoft C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- 🌱 I’m currently learning [Assembly](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm)
 - 👯 I’m looking to collaborate with other software engineers and web devs
 - ⚡ Fun fact: I'm a footballer!⚽
