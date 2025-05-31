@@ -5,7 +5,7 @@
 I'm a passionate **Software Dev Engineer I** who loves building impactful software and solving real-world problems through code.
 
 - 🔭 I’m currently working on: [SERSI](https://github.com/sersi-project)
-- 🌱 I’m currently learning: [Nuxt](https://nuxt.com/), [Deno 2](https://deno.com) & Becoming a Gopher![https://go.dev]
+- 🌱 I’m currently learning: [Nuxt](https://nuxt.com/), [Deno 2](https://deno.com) & Becoming a [Gopher]!(https://go.dev)
 - 💬 Ask me about: Frontend Development, Software Architecture, AWS Cloud Services, DevOps & CI/CD
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play for [Histon FC](https://www.histonfc.co.uk/)!
