@@ -32,7 +32,7 @@ I'm a passionate **Software Dev Engineer I** who loves building impactful softwa
 ## 🔗 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://kristiennyamutsaka.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristiennyamutska)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristien-nyamutsaka)
 
 ---
 
