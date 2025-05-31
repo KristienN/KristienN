@@ -12,10 +12,10 @@ I'm a passionate **Software Dev Engineer I** who loves building impactful softwa
 
 ## 🛠️ Tech Stack
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,csharp&theme=light)
+![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python&theme=light)
 ### Frameworks
 #### Frontend
-![Frameworks](https://skillicons.dev/icons?i=react,vue,nuxt,ember,svelte,materialui,tailwind,sass&theme=light)
+![Frameworks](https://skillicons.dev/icons?i=react,vue,nuxt,ember,svelte,materialui,tailwind,sass,css,jest,cypress&theme=light)
 #### Backend
 ![Frameworks](https://skillicons.dev/icons?i=go,nodejs,deno,spring,mongodb,postgresql,redis,supabase&theme=light)
 ### DevOps
