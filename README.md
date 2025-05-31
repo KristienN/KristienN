@@ -12,9 +12,9 @@ I'm a passionate **Software Dev Engineer I** who loves building impactful softwa
 
 ## 🛠️ Tech Stack
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python&theme=light)
+![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,csharp&theme=light)
 ### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=react,vue,nuxt,cobra,deno&theme=light)
+![Frameworks](https://skillicons.dev/icons?i=react,vue,nuxt,nodejs,deno,ember,svelte&theme=light)
 ### DevOps
 ![CI/CD](https://skillicons.dev/icons?i=docker,linux,kubernetes,aws,terraform,do,gcp&theme=light)
 ### Tools
