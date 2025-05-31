@@ -21,7 +21,7 @@ I'm a passionate **Software Dev Engineer I** who loves building impactful softwa
 ### DevOps
 ![CI/CD](https://skillicons.dev/icons?i=docker,linux,kubernetes,aws,terraform,vercel,gcp&theme=light)
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,vscode,intellij,postman,abodexd&theme=light)
+![Tools](https://skillicons.dev/icons?i=git,vscode,postman,xd&theme=light)
 
 ## 📈 GitHub Stats
 
