@@ -11,6 +11,6 @@
 - BSc Computer Science & Sofware Engineering (MH602) | Maynooth University
 - GCE A Levels: Maths, Physics & Chemistry | Gateway High School 
 
-### Dont be shy 😊 Connect!
+### Dont be shy to connect!😊 
 - 🟦 [LinkedIn](https://www.linkedin.com/in/kristien-nyamutsaka/)
 - 📧 [Email](knyamutsaka@yahoo.com)
