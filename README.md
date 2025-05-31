@@ -15,9 +15,9 @@ I'm a passionate **Software Dev Engineer I** who loves building impactful softwa
 ![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python,csharp&theme=light)
 ### Frameworks
 #### Frontend
-![Frameworks](https://skillicons.dev/icons?i=react,vue,nuxt,ember,svelte&theme=light)
+![Frameworks](https://skillicons.dev/icons?i=react,vue,nuxt,ember,svelte,materialui,tailwind,sass&theme=light)
 #### Backend
-![Frameworks](https://skillicons.dev/icons?i=jin,nodejs,deno,spring,mongodb,postgresql&theme=light)
+![Frameworks](https://skillicons.dev/icons?i=go,nodejs,deno,spring,mongodb,postgresql&theme=light)
 ### DevOps
 ![CI/CD](https://skillicons.dev/icons?i=docker,linux,kubernetes,aws,terraform,do,gcp&theme=light)
 ### Tools
