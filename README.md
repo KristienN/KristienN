@@ -1,16 +1,33 @@
-###  Hey there, I'm Kristien! 👋
+# Hi there, I'm Kristien 👋
 
-- 🌱 I’m currently learning ,[Nuxt 3](https://nuxt.com/), [Cobra](https://cobra.dev) & [Deno 2](https://deno.com/)!
-- ⚡ Fun fact: I'm a footballer!⚽
+## 🚀 About Me
 
-### Experience & Education
-- Software Dev Engineer I @Yahoo! [current]
-    - Assoc Sofware Engineer Engineer [23-24]
-    - Software Dev Intern [22]
-      
-- BSc Computer Science & Sofware Engineering (MH602) | Maynooth University
-- GCE A Levels: Maths, Physics & Chemistry | Gateway High School 
+I'm a passionate **Software Dev Engineer I** who loves building impactful software and solving real-world problems through code.
 
-### Dont be shy to connect!😊 
-- 🟦 [LinkedIn](https://www.linkedin.com/in/kristien-nyamutsaka/)
-- 📧 [Email](knyamutsaka@yahoo.com)
+- 🔭 I’m currently working on: [SERSI](https://github.com/sersi-project)
+- 🌱 I’m currently learning: [Nuxt](https://nuxt.com/) & Becoming a Gopher!
+- 💬 Ask me about: Frontend Development, Software Architecture, DevOps & CI/CD
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I play for [Histon FC](https://www.histonfc.co.uk/)!
+
+## 🛠️ Tech Stack
+
+![Languages](https://skillicons.dev/icons?i=js,ts,go,java,python&theme=light)
+![Frameworks](https://skillicons.dev/icons?i=react,vue,nuxt,cobra,deno&theme=light)
+![Tools](https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,kubernetes,aws,terraform&theme=light)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KristienN&show_icons=true&hide_border=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristienN&layout=compact&hide_border=true)
+
+## 🔗 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://kristiennyamutsaka.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kristiennyamutskae)
+
+---
+
+_Thanks for stopping by! ⭐️ Feel free to check out my pinned repos below or shoot me a message._
+
