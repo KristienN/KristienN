@@ -19,7 +19,7 @@ I'm a passionate **Software Dev Engineer I** who loves building impactful softwa
 #### Backend
 ![Frameworks](https://skillicons.dev/icons?i=go,nodejs,deno,spring,mongodb,postgresql&theme=light)
 ### DevOps
-![CI/CD](https://skillicons.dev/icons?i=docker,linux,kubernetes,aws,terraform,do,gcp&theme=light)
+![CI/CD](https://skillicons.dev/icons?i=docker,linux,kubernetes,aws,terraform,vercel,gcp&theme=light)
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,vscode,intellij,postman,abodexd&theme=light)
 
